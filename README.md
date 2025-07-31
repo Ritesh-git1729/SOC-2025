@@ -8,10 +8,10 @@ This project automates equity research by combining stock data collection, techn
 ##  Final Deliverable
 
 A single command generates a full stock analysis PDF with:
-- ✅ Technical indicators (SMA, EMA)
-- ✅ Volatility, skewness, kurtosis
-- ✅ Chart image of price trends
-- ✅ Automatically saved and organized report
+-  Technical indicators (SMA, EMA)
+-  Volatility, skewness, kurtosis
+-  Chart image of price trends
+-  Automatically saved and organized report
 
 ---
 
@@ -24,7 +24,7 @@ A single command generates a full stock analysis PDF with:
   ```bash
   pip install -r requirements.txt
 
-### ✅ Step 2: Built Core Modules
+### Step 2: Built Core Modules
 
 I created four Python modules inside the `src/` folder to modularize the workflow:
 
@@ -36,9 +36,9 @@ I created four Python modules inside the `src/` folder to modularize the workflo
   - Simple Moving Average (SMA)
   - Exponential Moving Average (EMA)  
   And computes key statistics:
-  - 📉 Volatility  
-  - 📈 Skewness  
-  - 📊 Kurtosis
+  -  Volatility  
+  -  Skewness  
+     Kurtosis
 
 - **`visualizer.py`**  
   Generates a stock price chart using `matplotlib`, overlays SMA/EMA lines, and saves the image as a `.png` file.
@@ -50,7 +50,7 @@ I created four Python modules inside the `src/` folder to modularize the workflo
 
 ---
 
-### ✅ Step 3: Connected Everything in `main.py`
+### Step 3: Connected Everything in `main.py`
 
 I built a master script `main.py` to execute the full analysis pipeline:
 
