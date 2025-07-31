@@ -59,6 +59,5 @@ I built a master script `main.py` to execute the full analysis pipeline:
 - Generate and save the stock chart
 - Compile all results into a formatted PDF report
 
-Running:
-```bash
-python main.py
+
+
