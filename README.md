@@ -1,7 +1,7 @@
 # SOC-2025
 #  Equity Research and Automation Using Python
 
-This project automates equity research by combining stock data collection, technical analysis, visualization, and PDF report generation using Python. It focuses on analyzing Indian tech stocks such as **TCS**.
+This project automates equity research by combining stock data collection, technical analysis, visualization, and PDF report generation using Python. It focuses on analyzing Indian tech stocks such as **TCS.NS**.
 
 ---
 
