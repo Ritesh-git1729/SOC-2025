@@ -19,7 +19,7 @@ A single command generates a full stock analysis PDF with:
 
 ###  Step 1: Set Up the Environment
 - Installed Python and pip
-- Created a virtual environment (optional)
+- Created a virtual environment 
 - Installed required packages:
   ```bash
   pip install -r requirements.txt
