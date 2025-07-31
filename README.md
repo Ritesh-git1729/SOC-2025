@@ -29,7 +29,7 @@ A single command generates a full stock analysis PDF with:
 I created four Python modules inside the `src/` folder to modularize the workflow:
 
 - **`data_fetcher.py`**  
-  Uses `yfinance` to fetch historical stock data for a given ticker symbol.
+  Uses `yfinance` to fetch historical stock data for a  ticker symbol.
 
 - **`analyzer.py`**  
   Adds technical indicators like:
